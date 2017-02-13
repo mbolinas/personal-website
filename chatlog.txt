@@ -1,0 +1,1 @@
+<div style="color:red"><b>Welcome to Chat!</b><br><em>Chat has been cleared by an Admin!</em><br></div>
